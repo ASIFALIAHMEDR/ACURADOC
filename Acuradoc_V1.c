@@ -103,6 +103,7 @@ void calculateBPM ()
   for (int i = 0; i < 500; i++){
     total += beats[i];
   }
+ 
   BPM = int(total / 500);
   beat_old = beat_new;
   beatIndex = (beatIndex + 1) % 500;  // cycle through the array instead of using FIFO queue
