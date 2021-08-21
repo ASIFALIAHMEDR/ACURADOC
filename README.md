@@ -1,8 +1,8 @@
 # ACURADOC
 ## IOT based Heart patient monitoring system
 > Real time patient monitoring system 
-> > With ECG DashBoard
->Alerting System for timely treatment
+> * With ECG DashBoard
+> * Alerting System for timely treatment
 ### Hardware Requirements:
 * Arduino Uno
 * Max30102
