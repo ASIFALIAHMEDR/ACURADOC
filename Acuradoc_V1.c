@@ -1,4 +1,5 @@
 import processing.serial.*;
+#include<stdio.h>
  
 Serial myPort;        // The serial port
 int xPos = 1;         // horizontal position of the graph
